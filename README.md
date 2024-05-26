@@ -1,2 +1,2 @@
-# EcoComp: 
+# EcoComp
 Predicting the composition of plant species at a given location and time using multimodal learning such as satellite images and time series, climatic time series, and other rasterized environmental data: land cover, human footprint, bioclimatic, and soil variables. This project is inspired by the [GeoLifeCLEF 2024 @ LifeCLEF & CVPR-FGVC](https://www.kaggle.com/competitions/geolifeclef-2024) open challenge hosted on Kaggle.
